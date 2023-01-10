@@ -1,8 +1,10 @@
 # Hot Shot Extra </br>
-A full stack MERN customer loyalty app for Hot Shot, a family owned business. </br></br>
+My first shot at creating a full stack MERN app for my final project of the Black CodHer Bootcamp. </br>
+Hot Shot Extra is a loyalty app intended to track earned and spent points by individual customers </br>
 
 Technologies used - </br>
 <ul>
+<li> HTML/ CSS/ JavaScript</br>
 <li> React.js </br>
 <li> Express.js/ Node.js </br>
 <li> MongoDb </ul>

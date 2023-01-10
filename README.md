@@ -1,5 +1,5 @@
 # HotShotXtra </br>
-A full stack MERN customer loyalty app for Hot Shot; a family owned business. </br></br>
+A full stack MERN customer loyalty app for Hot Shot, a family owned business. </br></br>
 
 Technologies used - </br>
 <ul>
